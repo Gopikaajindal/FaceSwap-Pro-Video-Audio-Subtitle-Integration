@@ -1,0 +1,7 @@
+opencv-python
+insightface
+whisper
+faster-whisper
+numpy
+moviepy
+pydub
